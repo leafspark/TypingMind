@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" viewBox="0.00 0.00 317.00 319.00">
-<g stroke-width="0.90" fill="none" stroke-linecap="butt">
-<path stroke="#ffa495" vector-effect="non-scaling-stroke" d="
+    <g stroke-width="0.90" fill="none" stroke-linecap="butt">
+        <path stroke="#ffa495" vector-effect="non-scaling-stroke" d="
   M 123.99 78.45
   C 83.23 96.53 61.06 142.28 74.42 185.78
   C 92.38 244.26 161.25 267.44 211.49 232.39
@@ -16,8 +16,8 @@
   Q 174.14 78.59 176.42 73.17
   Q 176.65 72.60 176.05 72.50
   Q 147.86 67.86 123.99 78.45"
-/>
-<path stroke="#ffa495" vector-effect="non-scaling-stroke" d="
+        />
+        <path stroke="#ffa495" vector-effect="non-scaling-stroke" d="
   M 199.55 123.64
   Q 198.69 123.64 198.93 122.82
   Q 200.24 118.24 204.29 116.03
@@ -37,8 +37,8 @@
   L 225.42 124.13
   Q 225.43 123.58 224.88 123.59
   L 199.55 123.64"
-/>
-<path stroke="#ffa495" vector-effect="non-scaling-stroke" d="
+        />
+        <path stroke="#ffa495" vector-effect="non-scaling-stroke" d="
   M 199.69 185.41
   A 0.56 0.56 0.0 0 1 200.17 185.69
   L 221.49 222.63
@@ -52,9 +52,9 @@
   L 156.38 184.64
   A 0.56 0.56 0.0 0 0 156.86 185.48
   L 199.69 185.41"
-/>
-</g>
-<path fill="#ff492c" d="
+        />
+    </g>
+    <path fill="#ff492c" d="
   M 314.08 159.99
   A 156.08 156.08 0.0 0 1 158.00 316.07
   A 156.08 156.08 0.0 0 1 1.92 159.99
@@ -110,8 +110,8 @@
   A 0.56 0.56 0.0 0 0 156.86 185.48
   L 199.69 185.41
   Z"
-/>
-<path fill="#fefefe" d="
+    />
+    <path fill="#fefefe" d="
   M 123.99 78.45
   Q 147.86 67.86 176.05 72.50
   Q 176.65 72.60 176.42 73.17
@@ -127,8 +127,8 @@
   C 161.25 267.44 92.38 244.26 74.42 185.78
   C 61.06 142.28 83.23 96.53 123.99 78.45
   Z"
-/>
-<path fill="#fefefe" d="
+    />
+    <path fill="#fefefe" d="
   M 199.55 123.64
   L 224.88 123.59
   Q 225.43 123.58 225.42 124.13
@@ -149,8 +149,8 @@
   Q 200.24 118.24 198.93 122.82
   Q 198.69 123.64 199.55 123.64
   Z"
-/>
-<path fill="#fefefe" d="
+    />
+    <path fill="#fefefe" d="
   M 199.69 185.41
   L 156.86 185.48
   A 0.56 0.56 0.0 0 1 156.38 184.64
@@ -165,5 +165,5 @@
   L 200.17 185.69
   A 0.56 0.56 0.0 0 0 199.69 185.41
   Z"
-/>
+    />
 </svg>

@@ -1,8 +1,7 @@
 # Acknowledgement
 
-
 | Name                        | Installed version | License type | Link                                                                         |
-| :-------------------------- | :---------------- | :----------- | :--------------------------------------------------------------------------- |
+|:----------------------------|:------------------|:-------------|:-----------------------------------------------------------------------------|
 | @boxyhq/saml-jackson        | 1.15.3            | Apache 2.0   | git+https://github.com/boxyhq/jackson.git                                    |
 | @dnd-kit/core               | 6.0.8             | MIT          | git+https://github.com/clauderic/dnd-kit.git                                 |
 | @dnd-kit/modifiers          | 6.0.1             | MIT          | git+https://github.com/clauderic/dnd-kit.git                                 |

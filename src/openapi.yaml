@@ -43,7 +43,7 @@ paths:
                   type: array
                   items:
                     type: string
-                  example: ['tag1', 'tag2']
+                  example: [ 'tag1', 'tag2' ]
         required: true
       responses:
         '200':
@@ -59,7 +59,7 @@ paths:
           description: Internal Server Error
 
       security:
-        - ApiKeyAuth: []
+        - ApiKeyAuth: [ ]
 
     get:
       operationId: getUsers
@@ -94,7 +94,7 @@ paths:
           description: Internal Server Error
 
       security:
-        - ApiKeyAuth: []
+        - ApiKeyAuth: [ ]
 
   /ai-characters:
     get:
@@ -123,7 +123,7 @@ paths:
           description: Internal Server Error
 
       security:
-        - ApiKeyAuth: []
+        - ApiKeyAuth: [ ]
 
 
   /users/{id}:
@@ -154,7 +154,7 @@ paths:
           description: Internal Server Error
 
       security:
-        - ApiKeyAuth: []
+        - ApiKeyAuth: [ ]
 
     patch:
       operationId: updateUser
@@ -179,7 +179,7 @@ paths:
                   type: array
                   items:
                     type: string
-                  example: ['tag1', 'tag2']
+                  example: [ 'tag1', 'tag2' ]
         required: true
       responses:
         '200':
@@ -195,7 +195,7 @@ paths:
           description: Internal Server Error
 
       security:
-        - ApiKeyAuth: []
+        - ApiKeyAuth: [ ]
 
   /chat/completions:
     post:
@@ -244,9 +244,9 @@ paths:
                   type: string
                   description: AI character for this completion
               required:
-              - model
-              - messages
-              - prompt
+                - model
+                - messages
+                - prompt
               example:
                 model: 'gpt-3.5-turbo'
                 stream: true
@@ -272,7 +272,7 @@ paths:
           description: Internal Server Error
 
       security:
-        - ApiKeyAuth: []
+        - ApiKeyAuth: [ ]
 
 components:
   securitySchemes:
@@ -297,7 +297,7 @@ components:
           type: array
           items:
             type: string
-          example: ['tag1', 'tag2']
+          example: [ 'tag1', 'tag2' ]
     Character:
       type: object
       properties:

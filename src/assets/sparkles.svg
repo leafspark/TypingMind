@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" viewBox="0.00 0.00 462.00 540.00">
-<path fill="#2663e9" d="
+    <path fill="#2663e9" d="
   M 428.04 271.42
   Q 429.29 275.66 430.22 279.84
   Q 431.25 284.44 433.21 287.53
@@ -654,5 +654,5 @@
   C 383.76 439.19 373.78 442.37 368.21 450.57
   Q 367.45 451.68 366.92 452.99
   Z"
-/>
+    />
 </svg>
